@@ -1,0 +1,1 @@
+{"version":3,"file":"About-dec7607c.js","sources":["../../src/pages/About.tsx"],"sourcesContent":["import React from 'react'\r\nimport About from '../components/About'\r\n\r\nconst AboutPage: React.FC = () => {\r\n  return <About />\r\n}\r\n\r\nexport default AboutPage\r\n"],"names":["AboutPage","About"],"mappings":"+NAGA,MAAMA,EAAsB,UAClBC,EAAM,CAAA,CAAA"}

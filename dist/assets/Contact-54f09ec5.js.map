@@ -1,0 +1,1 @@
+{"version":3,"file":"Contact-54f09ec5.js","sources":["../../src/pages/Contact.tsx"],"sourcesContent":["import React from 'react'\r\nimport Contact from '../components/Contact'\r\n\r\nconst ContactPage: React.FC = () => {\r\n  return <Contact />\r\n}\r\n\r\nexport default ContactPage\r\n"],"names":["ContactPage","Contact"],"mappings":"uOAGA,MAAMA,EAAwB,UACpBC,EAAQ,CAAA,CAAA"}
